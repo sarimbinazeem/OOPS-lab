@@ -1,4 +1,21 @@
-#include <iostream>
+//Question 3:
+// Design an employee payroll system using separate files. Each employee has:
+//  Name
+//  Employee ID
+//  Base salary
+//  Hours worked
+// The system calculates:
+// 1. Regular pay (based on base salary)
+// 2. Overtime pay (if hours &gt; 40, at 1.5× rate)
+// 3. Total salary
+// 4. Employee information display
+// Requirements:
+//  Implement using header file and separate implementation file
+//  Calculate overtime correctly
+//  Compare employee salaries
+//  Display comprehensive payroll information
+
+// #include <iostream>
 #include "Employee.h"
 using namespace std;
 
