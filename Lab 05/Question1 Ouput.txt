@@ -1,0 +1,19 @@
+
+=====Placing Orders=====
+Alice placed order at Pizza Heaven
+Bob placed order at Taco Fiesta
+Bob placed order at Taco Fiesta
+
+=====Restraunt Details=====
+Pizza Heaven making: Pepproni Pizza
+Taco Fiesta making: Burrito
+Taco Fiesta making: Burrito
+
+=====Order Details=====
+Order #1001: Pepproni Pizza for Alice from Pizza Heaven
+Order #1002: Burrito for Bob from Taco Fiesta
+Order #1003: Burrito for Bob from Taco Fiesta
+
+=====When Orders Are Gone=====
+Customer Still Exist: Alice
+Restraunt  Still Exist: Pizza Heaven
