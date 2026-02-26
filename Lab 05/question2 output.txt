@@ -1,0 +1,27 @@
+===Patient Details===
+Patient ID: 101
+Patient name: Sarim Azeem
+Patient Date Of Birth: 05 November 2007
+
+===Medication Details===
+Drug Name: Dopamine
+Doses: 5.5
+Time Given: 3
+
+===Vitals Details===
+Temperature: 27.3
+Heart Rate: 0.1
+Time Checked: 2
+
+===Diagonosis Details===
+Note Text: For Inflammation, keep it away from 3 years old
+Doctor Name: Izzah Salam
+Date: 7
+
+===Reasoning===
+We cant access the properties of Medication Entry, Vital Signs, Diagonosis Notes classes without Patient Record CLASS
+BECAUSE: Those classes are composed within Patient Record. When Patient Record is created then It HAS-A those three classes. Without creating Patient Record those three classes doesnt exist
+BECAUSE: OF Composition
+
+
+PatientRecord destroyed -> All medical entries automatically destroyed (Composition).Deleting This Class Deletes Its Attributes
