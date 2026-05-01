@@ -1,0 +1,6 @@
+
+====ARTICLE ANALYSIS STATISTICS====
+Total Lines: 2
+Total Words: 18
+Total Characters: 90
+Total Punctuation Marks: 4
